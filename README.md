@@ -96,7 +96,7 @@ Seeking opportunities as a **Full Stack Developer**, contributing to:
 ## 📫 Contact
 
 🌎 Portfolio: https://itallogoncalves.vercel.app/  
-💼 GitHub: https://github.com/DestroyerIG 
+💼 GitHub: https://github.com/DestroyerIG  
 📧 Email: igitallogabriel13@email.com  
 
 ---
