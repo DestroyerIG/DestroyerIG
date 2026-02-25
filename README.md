@@ -1,52 +1,106 @@
-# 👋 Olá, eu sou Ítallo Gonçalves
+<!-- Banner Minimalista -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=180&section=header&text=Itallo%20Gabriel&fontSize=38&fontColor=ffffff" />
+</p>
 
-**Full Stack Developer** focado em construir aplicações web escaláveis com arquitetura robusta e interfaces intuitivas.  
-Especializado em **React**, **Node.js**, **APIs REST**, e desenvolvimento full stack com boas práticas e performance.
+<h2 align="center">💼 Full Stack Developer | Desenvolvedor Full Stack</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Engineering+Student;Building+Scalable+Systems;Clean+Code+Enthusiast;Ready+for+Opportunities" />
+</p>
+
+---
+
+## 👨‍💻 Sobre Mim | About Me
+
+🎓 24 anos — Graduando em Engenharia de Software  
+💻 Desenvolvedor Full Stack  
+🚀 Foco em sistemas modernos e escaláveis  
+🧩 Experiência com APIs, bancos de dados e integrações  
+📈 Comprometido com boas práticas e alta qualidade de código  
 
 ---
 
 ## 🛠️ Tecnologias
 
-### 💻 Desenvolvimento
-- **Frontend:** React, Next.js, HTML5, CSS3, JavaScript, TypeScript  
-- **Backend:** Node.js, Express  
-- **Banco de Dados:** PostgreSQL, MySQL, MongoDB  
-- **Outros:** Docker, Redis, Git, Postman, Vercel, Railway  
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- React
+- Flutter
+
+**Backend**
+- Node.js
+- REST APIs
+- JWT
+- Arquitetura MVC
+
+**Database**
+- PostgreSQL
+- MySQL
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🧠 Soft Skills
 
-### 💈 BarberPro SaaS  
-🟡 **Status: Em Andamento**
-
-Sistema completo de gestão para barbearias com agendamento automático, controle financeiro e painel administrativo.  
-
-**Tecnologias:** Next.js, Node.js, Express, PostgreSQL, Tailwind CSS  
-
----
-
-### 🏋️ FitPro  
-🟡 **Status: Em Andamento**
-
-Plataforma de gestão para personal trainers com agendamento de treinos, controle de progresso e dashboard interativo.  
-
-**Tecnologias:** React, TypeScript, Tailwind CSS  
+- 🧩 Pensamento lógico e resolução de problemas  
+- 🤝 Trabalho em equipe  
+- 📌 Organização e foco em resultados  
+- 📈 Aprendizado contínuo  
+- 💬 Comunicação clara  
+- 🎯 Mentalidade orientada a metas  
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🥇 GitHub Trophies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DestroyerIG&show_icons=true&theme=dark)
-
----
-
-## 📫 Contato
-
-- ✉ Email: igitallogabriel13@email.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/itallogoncalves/
-- 🌐 Portfólio: https://itallogoncalves.vercel.app/
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_AQUI&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-💡 Atualmente focado em evoluir soluções SaaS escaláveis e aplicações full stack modernas.
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ⭐ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&label=Profile%20Views&color=0f172a&style=for-the-badge" />
+</p>
+
+---
+
+## 🎯 Professional Objective
+
+Seeking opportunities as a **Full Stack Developer**, contributing to:
+
+- Scalable web applications  
+- SaaS platforms  
+- API development  
+- High-performance systems  
+- Professional team environments  
+
+---
+
+## 📫 Contact
+
+🌎 Portfolio: https://itallogoncalves.vercel.app/  
+💼 GitHub: https://github.com/DestroyerIG 
+📧 Email: igitallogabriel13@email.com  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:111827&height=120&section=footer"/>
+</p>
