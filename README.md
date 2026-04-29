@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Sobre Mim | About Me
 
-🎓 24 anos — Graduando em Engenharia de Software  
+🎓 25 anos — Graduando em Engenharia de Software  
 💻 Desenvolvedor Full Stack  
 🚀 Foco em sistemas modernos e escaláveis  
 🧩 Experiência com APIs, bancos de dados e integrações  
@@ -64,11 +64,11 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DestroyerIG&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DestroyerIG&layout=compact&theme=tokyonight" />
 </p>
 
 ---
