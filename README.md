@@ -76,7 +76,7 @@
 ## ⭐ Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&label=Profile%20Views&color=0f172a&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=DestroyerIG&label=Profile%20Views&color=0f172a&style=for-the-badge" />
 </p>
 
 ---
