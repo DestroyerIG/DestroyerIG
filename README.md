@@ -138,7 +138,10 @@ versionadas e deploy contínuo — em projeto de cliente não existe "depois eu 
 ## Atividade
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DestroyerIG&hide_border=true&background=0a0a0a&stroke=333333&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=999999&dates=666666&currStreakNum=f0f0f0&sideNums=f0f0f0" alt="Sequência de contribuições" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DestroyerIG&bg_color=0a0a0a&color=999999&line=ff0000&point=ff0000&area=true&area_color=ff0000&hide_border=true&radius=10"
+    alt="DestroyerIG GitHub Activity Graph"
+  />
 </p>
 
 <br/>
